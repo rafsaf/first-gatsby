@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{cdby:function(e,t,n){"use strict";n.r(t);var o=n("q1tI"),a=n("Wbzz"),i={color:"#232129",padding:"96px",fontFamily:"-apple-system, Roboto, sans-serif, serif"};t.default=function(){return o.createElement("main",{style:i},o.createElement("title",null,"Another Page"),o.createElement(a.Link,{to:"/"},"Home Page"))}}}]);
+//# sourceMappingURL=component---src-pages-another-js-01f4986ab2a8096777a3.js.map

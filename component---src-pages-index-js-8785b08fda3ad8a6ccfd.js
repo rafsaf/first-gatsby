@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{RXBc:function(e,t,n){"use strict";n.r(t);var o=n("q1tI"),a=n("Wbzz"),r={color:"#232129",padding:"96px",fontFamily:"-apple-system, Roboto, sans-serif, serif"};t.default=function(){return o.createElement("main",{style:r},o.createElement("title",null,"Home Page"),o.createElement(a.Link,{to:"/another"},"Another page"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-8785b08fda3ad8a6ccfd.js.map
